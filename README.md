@@ -9,6 +9,7 @@ j'ai des compétences en SISR
 -HTML
 -CSS
 -Python
+-Git(hub)
 ### systeme
 -windows server: administration et maintenance
 -Linux
